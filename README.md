@@ -4,6 +4,7 @@
 
 * [Code snippets for using WASM](wasm)
 * [Using Windows APIs](windows)
+* [Binary loader](binary-loader)
 
 ## Problems or Suggestions
 
