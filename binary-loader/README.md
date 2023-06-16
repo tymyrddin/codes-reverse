@@ -9,3 +9,4 @@ Design and implement a framework to parse and (statically) load binary files, fo
 ## Resources
 
 * [Practical Binary Analysis](https://practicalbinaryanalysis.com)
+* [GNU Binutils](https://www.gnu.org/software/binutils/)
