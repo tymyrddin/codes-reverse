@@ -6,6 +6,10 @@ Design and implement a framework to parse and (statically) load binary files, fo
 * [loader.h](loader.h)
 * [loader_test.cc](loader_test.cc)
 
+## Dependencies
+
+* `binutils-dev`
+
 ## Resources
 
 * [Practical Binary Analysis](https://practicalbinaryanalysis.com)

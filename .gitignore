@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Code::Block
+reverse-engineering.cbp
+reverse-engineering.layout
