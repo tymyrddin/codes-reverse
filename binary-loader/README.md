@@ -13,4 +13,4 @@ Design and implement a framework to parse and (statically) load binary files, fo
 ## Resources
 
 * [Practical Binary Analysis](https://practicalbinaryanalysis.com)
-* [GNU Binutils](https://www.gnu.org/software/binutils/)
+* [Documentation for binutils 2.40: BFD Library (libbfd)](https://sourceware.org/binutils/docs-2.40/bfd.html)

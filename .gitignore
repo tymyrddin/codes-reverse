@@ -51,6 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Code::Block
-reverse-engineering.cbp
-reverse-engineering.layout
+# IDE
+*.cbp
+*.layout
+.idea
