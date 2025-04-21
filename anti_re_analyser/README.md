@@ -1,5 +1,7 @@
 # Analysing Anti-Reverse engineering tricks
 
+[anti_re_analyser.cpp](anti_re_analyser.cpp)
+
 ## Detection capabilities
 
 This tool can identify:
@@ -15,7 +17,7 @@ This tool can identify:
 The analyser provides a comprehensive report of all detected anti-reverse engineering techniques used by the target 
 process, for malware analysis and security research.
 
-## Build Instructions (Visual Studio):
+## Build Instructions (Visual Studio)
 
 * Create a new C++ Console Application project
 * Add the source code

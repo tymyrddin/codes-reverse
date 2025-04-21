@@ -12,12 +12,16 @@ sudo apt-get install libcapstone-dev
 
 # Compile with:
 g++ -std=c++17 -ldl -lcapstone -o vtable_analyser vtable_analyser.cpp
+```
 
+## Usage
+
+```
 # Run against a binary:
 ./vtable_analyser /path/to/binary [output.txt]
 ```
 
-## Example Output:
+## Example Output
 
 ```commandline
 === Virtual Table at 0x55a1b2d3b280 ===
