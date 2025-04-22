@@ -29,13 +29,11 @@ Extensible through:
 
 ## Building and Dependencies
 
-To build this program on macOS, you'll need:
+To build this program on macOS:
 
-    macOS SDK (Xcode)
-
-    C++17 compiler
-
-    Capstone disassembly framework (optional for instruction analysis)
+* macOS SDK (Xcode)
+* C++17 compiler
+* Capstone disassembly framework (optional for instruction analysis)
 
 Build command:
 
