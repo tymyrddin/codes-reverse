@@ -4,6 +4,14 @@
 
 ----
 
+## Reverse engineering applications
+
+* [macOS Reverse Engineering framework](reveng-mac-apps)
+* [Windows Reverse Engineering framework](reveng-windows-apps)
+* [Linux Reverse Engineering framework](reveng-linux-apps)
+
+----
+
 ## Malware analysis
 
 * [Memory analyser](memory-analyser)
