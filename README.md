@@ -8,6 +8,7 @@
 * [Memory analyser](memory-analyser)
 * [Virtual function reverse engineering tool](vtable_analyser)
 * [Analysing Anti-Reverse engineering tricks](anti_re_analyser)
+* [PE/ELF header parser](pe-elf-header-parser)
 
 ## Problems or Suggestions
 
