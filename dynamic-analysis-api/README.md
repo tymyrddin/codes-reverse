@@ -4,9 +4,9 @@ Dynamic analysis using inline hooking to monitor API calls in Windows processes.
 other Windows API functions and system activities.
 
 * [api_monitor.cpp](api_monitor.cpp)
-* [HookEngine.h](hook_engine.h)
+* [hook_engine.h](hook_engine.h)
 * [api_monitor.h](api_monitor.h)
-* [Logger.h](logger.h)
+* [logger.h](logger.h)
 
 ## Features
 
