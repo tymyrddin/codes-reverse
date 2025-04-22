@@ -20,6 +20,8 @@
 * [Using Windows APIs](windows)
 * [Binary loader](binary-loader)
 
+----
+
 ## Problems or Suggestions
 
 This project welcomes contributions and suggestions. 
